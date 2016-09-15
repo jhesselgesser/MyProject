@@ -4,4 +4,6 @@ New line of the code
 
 Another new line of code after commit but before push to remote repository.
 
+Shit another line...
+
 
